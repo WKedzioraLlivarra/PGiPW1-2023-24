@@ -1,0 +1,5 @@
+﻿newmtl /Engine/EngineMaterials/WorldGridMaterial_WorldGridMaterial
+	map_Kd WorldGridMaterial_WorldGridMaterial_D.bmp
+	map_Ks WorldGridMaterial_WorldGridMaterial_S.bmp
+	bump WorldGridMaterial_WorldGridMaterial_N.bmp
+
